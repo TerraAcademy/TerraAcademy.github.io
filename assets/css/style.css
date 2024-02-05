@@ -91,7 +91,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #bf6632;
+  background: #606c38;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -125,7 +125,7 @@ h6 {
 
 #header.header-scrolled,
 #header.header-inner-pages {
-  background: rgba(85, 93, 70, 1);
+  background: rgba(254,250,224, 1);
 }
 
 #header .logo {
@@ -176,7 +176,6 @@ h6 {
   padding: 10px 0 10px 30px;
   font-size: 15px;
   font-weight: 500;
-  color: #fff;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -204,7 +203,7 @@ h6 {
   border-radius: 50px;
   color: #fff;
   font-size: 14px;
-  border: 2px solid #bf6632;
+  border: 2px solid #606c38;
   font-weight: 600;
 }
 
@@ -314,7 +313,7 @@ h6 {
   right: 0;
   left: 0;
   bottom: 0;
-  background: rgba(85, 93, 70, 1);
+  background: rgba(254,250,224, 1);
   transition: 0.3s;
   z-index: 999;
 }
@@ -398,7 +397,7 @@ h6 {
 #hero {
   width: 100%;
   height: 80vh;
-  background: #555d46;
+  background: #fefae0;
 }
 
 #hero .container {
@@ -410,11 +409,9 @@ h6 {
   font-size: 48px;
   font-weight: 700;
   line-height: 56px;
-  color: #fff;
 }
 
 #hero h2 {
-  color: rgba(255, 255, 255, 0.6);
   margin-bottom: 50px;
   font-size: 24px;
 }
@@ -430,7 +427,7 @@ h6 {
   transition: 0.5s;
   margin: 10px 0 0 0;
   color: #fff;
-  background: #bf6632;
+  background: #606c38;
 }
 
 #hero .btn-get-started {
@@ -444,7 +441,7 @@ h6 {
   transition: 0.5s;
   margin: 10px 0 0 0;
   color: #fff;
-  background: #bf6632;
+  background: #606c38;
 }
 
 #hero .btn-get-started:hover {
@@ -554,7 +551,7 @@ section {
 }
 
 .section-bg {
-  background-color: #f3f5fa;
+  background-color: #F7F9FB;
 }
 
 .section-bg-2 {
@@ -677,11 +674,11 @@ section {
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
   margin-top: 6px;
-  border: 2px solid #bf6632;
+  border: 2px solid #606c38;
 }
 
 .about .content .btn-learn-more:hover {
-  background: #bf6632;
+  background: #606c38;
   color: #fff;
   text-decoration: none;
 }
@@ -927,7 +924,7 @@ section {
 # Cta
 --------------------------------------------------------------*/
 .cta {
-  background: linear-gradient(rgba(85, 93, 70, 1), rgba(85, 93, 70, 1)), url("../img/cta-bg.jpg") fixed center center;
+  background: linear-gradient(rgba(254,250,224, 1), rgba(254,250,224, 1)), url("../img/cta-bg.jpg") fixed center center;
   background-size: cover;
   padding: 120px 0;
 }
@@ -957,8 +954,8 @@ section {
 }
 
 .cta .cta-btn:hover {
-  background: #bf6632;
-  border: 2px solid #bf6632;
+  background: #606c38;
+  border: 2px solid #606c38;
 }
 
 @media (max-width: 1024px) {
@@ -999,7 +996,7 @@ section {
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-  background: #bf6632;
+  background: #606c38;
   color: #fff;
 }
 
@@ -1361,7 +1358,7 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #bf6632;
+  border: 1px solid #606c38;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
@@ -1588,11 +1585,11 @@ section {
   font-weight: 500;
   font-family: "Open Sans", sans-serif;
   transition: 0.3s;
-  border: 1px solid #bf6632;
+  border: 1px solid #606c38;
 }
 
 .pricing .buy-btn:hover {
-  background: #bf6632;
+  background: #606c38;
   color: #fff;
 }
 
@@ -1601,7 +1598,7 @@ section {
 }
 
 .pricing .featured .buy-btn {
-  background: #bf6632;
+  background: #606c38;
   color: #fff;
 }
 
@@ -1717,8 +1714,8 @@ section {
 # Contact
 --------------------------------------------------------------*/
 .contact .info {
-  border-top: 3px solid #bf6632;
-  border-bottom: 3px solid #bf6632;
+  border-top: 3px solid #606c38;
+  border-bottom: 3px solid #606c38;
   padding: 30px;
   background: #fff;
   width: 100%;
@@ -1778,21 +1775,21 @@ section {
 }
 
 .contact .info .social-links a:hover {
-  background: #bf6632;
+  background: #606c38;
   color: #fff;
 }
 
 .contact .info .email:hover i,
 .contact .info .address:hover i,
 .contact .info .phone:hover i {
-  background: #bf6632;
+  background: #606c38;
   color: #fff;
 }
 
 .contact .php-email-form {
   width: 100%;
-  border-top: 3px solid #bf6632;
-  border-bottom: 3px solid #bf6632;
+  border-top: 3px solid #606c38;
+  border-bottom: 3px solid #606c38;
   padding: 30px;
   background: #fff;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
@@ -1882,7 +1879,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit] {
-  background: #bf6632;
+  background: #606c38;
   border: 0;
   padding: 12px 34px;
   color: #fff;
@@ -2006,7 +2003,7 @@ section {
   background: none;
   font-size: 16px;
   padding: 0 20px;
-  background: #bf6632;
+  background: #606c38;
   color: #fff;
   transition: 0.3s;
   border-radius: 50px;
@@ -2094,7 +2091,7 @@ section {
 #footer .footer-top .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #bf6632;
+  background: #606c38;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
